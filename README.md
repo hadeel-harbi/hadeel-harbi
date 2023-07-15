@@ -4,23 +4,28 @@
 
 ###
 
-<h1 align="left"></h1>
+<h1 align="center">Hi There,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Hadeel Alharbi</h1>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/hadeel-alharbi-880643247/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="mailto:ihadeel_abdullah@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://github.com/hadeel-harbi"><img align="center" src="https://img.shields.io/badge/GitHub-grey?&style=for-the-badge&logo=Github&logoColor=white" /></a></div>
 
 ###
 
-<p align="left">Hi there 👋, My name is Hadeel Alharbi, I graduated with a bachelor's degree in computer science.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">💫 About me</h2>
 
 ###
 
-<p align="left">📱 I'm a Mobile App Developer.<br>📚 I'm currently learning Flutter.<br>🎯 My goal is to learn more technologies.<br>🌱 I love to learn to code in different languages.<br>📫 How to reach me: ihadeel_abdullah@hotmail.com</p>
+<p align="left">📱 I'm a Full Stack Mobile App Developer.<br>💻 I’m currently working on a front-end and back-end projects using Dart & Flutter.<br>🎯 My goal is to learn more technologies.<br>🌱 I'm passionate about programming and love to learn new things.<br>📫 To contact me: ihadeel_abdullah@hotmail.com</p>
 
-###
 
-<h2 align="left">Languages and Tools</h2>
+<br>
+
+<h2 align="left">💻 Languages and Tools</h2>
 
 ###
 
@@ -47,13 +52,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" height="40" alt="supabase logo"  />
 </div>
 
 ###
