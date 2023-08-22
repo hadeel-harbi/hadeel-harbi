@@ -8,6 +8,7 @@
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/hadeel-alharbi-880643247/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="mailto:ihadeel_abdullah@hotmail.com"><img align="center" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://github.com/hadeel-harbi"><img align="center" src="https://img.shields.io/badge/GitHub-grey?&style=for-the-badge&logo=Github&logoColor=white" /></a></div>
 
