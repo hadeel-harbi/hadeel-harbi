@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">📱 I'm a Full Stack Mobile App Developer.<br>💻 I’m currently working on a front-end and back-end projects using Dart & Flutter.<br>🎯 My goal is to learn more technologies.<br>🌱 I'm passionate about programming and love to learn new things.<br>📫 To contact me: ihadeel_abdullah@hotmail.com</p>
+<p align="left">📱 I'm a Full Stack Mobile App Developer.<br>💻 I’m currently working on a front-end and back-end projects using Dart & Flutter.<br>🎯 My goal is to learn more technologies.<br>🌱 I'm passionate about programming and love to learn new things.<br>📫 To contact me: dev.hadeelalharbi@gmail.com</p>
 
 
 <br>
